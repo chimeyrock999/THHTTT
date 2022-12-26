@@ -39,3 +39,7 @@ npm i
 ```
 npm start
 ```
+
+### Default accounts:
+- Email: `v@v.v`
+- Password: `v`
